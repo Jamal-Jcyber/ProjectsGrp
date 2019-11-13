@@ -205,3 +205,8 @@ section{
   background-color: #4CAF50;
   /*color: white;*/
 }
+
+img {
+	width: 500px;
+	height: 300px;
+}
